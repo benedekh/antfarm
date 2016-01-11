@@ -30,3 +30,10 @@ Moreover, each ant and food has its own odour. Ants are also able to follow othe
 Two utilities, the antkiller and the antodourkiller are available for the user. The former can be used 10 times clicking with the left mouse button, the latter can be used 15 times clicking with the right mouse button. The antkiller kills all ants in 3 radius around the clicked field. The antodourkiller removes the odour from the fields in 2 radius around the clicked field.
 
 The game is over when all food are eaten by the ants.
+
+## Screenshots from the game
+
+[![](img/splash.png)](img/splash.png)
+
+[![](img/game.png)](img/game.png)
+
